@@ -1,0 +1,12 @@
+{
+  "name": "vue-lazyplay",
+  "version": "1.0.0",
+  "main": "dist/vue-lazyplay.umd.js",
+  "module": "dist/vue-lazyplay.esm.js",
+  "unpkg": "dist/vue-lazyplay.min.js",
+  "browser": {
+    "./sfc": "src/vue-lazyplay.vue"
+  },
+  "dependencies": {
+  }
+}
